@@ -20,6 +20,10 @@
         "semi":[
             "error",
             "always"
+        ],
+        "block-spacing":[
+            "error",
+            "always"
         ]
     }
 }
